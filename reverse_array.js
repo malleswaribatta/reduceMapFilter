@@ -7,4 +7,4 @@ const reverse = function(array) {
   return array.reduce(getReverse, []);
 }
 
-console.log(reverse([1,2,3,4]));
+console.log(reverse([1,2,3,4]))
